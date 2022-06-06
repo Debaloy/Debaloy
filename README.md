@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Debaloy
-- 👀 I’m interested in software and android app development.
-- 🌱 I’m currently learning android app development.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in making things.
+- 🌱 I’m currently learning discord js and react.
+- 💞️ I’m looking to collaborate on discord bots! 🤖
 - 📫 How to reach me : debaloy110019@gmail.com
 
 <!---

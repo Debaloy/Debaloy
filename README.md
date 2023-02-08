@@ -9,8 +9,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Interested%20in%20making%20new%20things;MERN%20Developer;Java%20and%20CPP%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-- 👋 Hi, I’m @Debaloy
-- 👀 I’m interested in making things.
-- 🌱 I’m currently learning discord js and react.
-- 💞️ I’m looking to collaborate on discord bots! 🤖
-- 📫 How to reach me : debaloy110019@gmail.com
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCYQ6BR23WbwacVRcn3-JPrw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/debaloy_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/1033415779330306158" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+</p>

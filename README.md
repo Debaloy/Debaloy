@@ -11,17 +11,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCYQ6BR23WbwacVRcn3-JPrw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCYQ6BR23WbwacVRcn3-JPrw" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/debaloy_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/debaloy_" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/1033415779330306158" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/1033415779330306158" target="_blank" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
 </p>
 
 ---
 
 <!-- Languages and Frameworks -->
-<img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-Tools%20and%20Frameworks-f75c7e?style=for-the-badge&logoColor=white&logo=repo"/>
+<img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-Tools%20and%20Frameworks-f75c7e?style=for-the-badge&logoColor=black&logo=repo"/>
 <!-- Logos -->
 <p align="center">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>

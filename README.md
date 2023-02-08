@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Debaloy">
-    <img src="https://raw.githubusercontent.com/Debaloy/Debaloy/main/name_image.png" alt="Debaloy Chatterjee" /></a>
+    <img src="https://raw.githubusercontent.com/Debaloy/Debaloy/main/name_image_.png" alt="Debaloy Chatterjee" /></a>
 </p>
 
 <p align="center">

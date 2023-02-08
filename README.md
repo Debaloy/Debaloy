@@ -50,7 +50,7 @@
 I have been into coding for 5 years now and my favorite programming languages are C/Cpp and Rust and my favorite scripting language is JS (although I'm moving to TS slowly). I love assembly as well.<br>
 I also love to learn new languages as well, be it programming ones or spoken ones.
 </p>
-<br><br>
+<br>
 
 ---
 

@@ -44,9 +44,15 @@
 ---
 
 <!-- About Me -->
-<img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-About%20Me-f75c7e?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
+<img alt="About Me" title="AboutMe" src="https://custom-icon-badges.demolab.com/badge/-About%20Me-f75c7e?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
 <p>
   I am a guy who loves to learn, be it programming or science or just some random thing.<br>
 I have been into coding for 5 years now and my favorite programming languages are C/Cpp and Rust and my favorite scripting language is JS (although I'm moving to TS slowly). I love assembly as well.<br>
 I also love to learn new languages as well, be it programming ones or spoken ones.
 </p>
+<br><br>
+
+---
+
+<img alt="Git Stat" title="Git Stat" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Profile%20Stats-f75c7e?style=for-the-badge&logo=package&logoColor=black"/>
+<img alt="Debaloy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Debaloy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>

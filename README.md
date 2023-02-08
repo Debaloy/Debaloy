@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/1033415779330306158" target="_blank" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/debaloy-chatterjee-5b6170136/" target="_blank"><img src="https://raw.githubusercontent.com/Debaloy/Debaloy/main/linkedin.png" width="32px"></a>
+  <a href="https://www.linkedin.com/in/debaloy-chatterjee-5b6170136/" target="_blank"><img src="https://raw.githubusercontent.com/Debaloy/Debaloy/main/linkedin.png" width="30px"></a>
 </p>
 
 ---

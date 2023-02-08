@@ -21,7 +21,7 @@
 ---
 
 <!-- Languages and Frameworks -->
-<img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-Tools%20and%20Frameworks-d90368?style=for-the-badge&logoColor=white&logo=repo"/>
+<img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-Tools%20and%20Frameworks-f75c7e?style=for-the-badge&logoColor=white&logo=repo"/>
 <!-- Logos -->
 <p align="center">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -45,6 +45,6 @@
 <!-- About Me -->
 <img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-About%20Me-f75c7e?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Debaloy&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
-</a>
+<p style="background-color: #1F222E; width: 400px">
+  This is just some random text inserted to test the parabara akjnfkjasdnkjfnsd asdnfasnd f sadkfnas kldfnaskdj  sadnfkjsdnfkjdnsfkjnsa dn sakjnask dnksj n kjsafkjsdnfksjdafn  sajkdfnkasjdnfkjnafkj  nksjnfksadnfk  ndsjfnasknf jsdanfk djnfksn dnjnf
+</p>

@@ -44,11 +44,8 @@
 
 <!-- About Me -->
 <img alt="Languages and Frameworks" title="TechStack" src="https://custom-icon-badges.demolab.com/badge/-About%20Me-f75c7e?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
-
-<p width="100px">
-  <p align="left">
+<p>
   I am a guy who loves to learn, be it programming or science or just some random thing.<br>
 I have been into coding for 5 years now and my favorite programming languages are C/Cpp and Rust and my favorite scripting language is JS (although I'm moving to TS slowly). I love assembly as well.<br>
 I also love to learn new languages as well, be it programming ones or spoken ones.
-    </p>
 </p>
